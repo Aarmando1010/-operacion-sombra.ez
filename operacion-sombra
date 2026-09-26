@@ -1,0 +1,7 @@
+/ (Raíz del repositorio)
+├── index.html
+├── manifest.webmanifest
+├── sw.js
+├── README.txt
+└── js/
+    └── game.js
